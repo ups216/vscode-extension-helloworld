@@ -1,8 +1,13 @@
 {
-  "name": "hello-world",
-  "displayName": "Hello World",
-  "description": "Hello World",
+  "name": "vscode-hello-world-111",
+  "displayName": "VSCode Extension Hello World",
+  "description": "Hello World Extension",
+  "publisher": "leansoftx",
   "version": "0.0.1",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/ups216/vscode-extension-helloworld.git"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
